@@ -72,7 +72,7 @@ We welcome contributions from the community! If you have a homelab setup that yo
 
 ### Miscellaneous
 
-- **[Example](https://github.com)** - A unique homelab setup that doesn't fit into the other categories.
+- **[mikeroyal/self-hosting-guide](https://github.com/mikeroyal/Self-Hosting-Guide)** - Mikeroyal's Self-Hosting Guuide.
 
 ## Contributors
 
